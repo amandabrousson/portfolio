@@ -17,6 +17,7 @@
     "postcss-cli": "^8.3.1"
   },
   "dependencies": {
+    "abstract": "^0.1.2",
     "axios": "^1.7.5",
     "sass": "^1.77.8"
   }
